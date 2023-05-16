@@ -1,6 +1,6 @@
 # Team - Jobless
 
-American International University of Bangladesh
+**American International University of Bangladesh**
 Department of Computer Science and Engineering
 
 ## Project
@@ -19,9 +19,9 @@ Department of Computer Science and Engineering
 
 To run the program, follow these steps:
 
-1. Open the `Start.java` file using the command prompt (CMD).
-2. Compile the program using the command: `javac Start.java`
-3. Run the program using the command: `java Start`
+- Open the `Start.java` file using the command prompt (CMD).
+- Compile the program using the command: `javac Start.java`
+- Run the program using the command: `java Start`
 
 ## Required files
 
